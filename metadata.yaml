@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3903
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37820#Chronicles-of-Martin-Hewitt
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2011-10-22'
 gutenberg_type: Text
